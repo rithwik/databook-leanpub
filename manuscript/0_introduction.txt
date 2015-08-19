@@ -1,0 +1,11 @@
+# Introduction
+
+Resources for learning how to do things to data, both loving and unspeakable, abound on the internet.
+
+This book isn't a deep dive into any specific algorithm, dataset, or tool. It is an attempt to serve as an aid, in the reader's development of an intuition for analysis, and in synthesising the ideas and techniques found elsewhere.
+
+I do not claim to be an expert in the field or in the teaching of it, indeed I will be trying to point you to various good resources on the way. On the other hand having gone from merely a cursory understanding (although I overestimated the depth of it at that time) to gaining at least some amount of skill without formal training, I am uniquely situated to understand the beginner's mind and his struggles.
+
+So, lend me your ears, and I promise you will see a bit more clearly through the dense smog of jargon we seem to run into.
+
+It's all common sense, really.
